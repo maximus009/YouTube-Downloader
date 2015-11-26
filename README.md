@@ -3,7 +3,7 @@ Download YouTube videos in a flash and also save frames is needed.
 
 <h3> STEPS: </h3>
 <ol>
-<li>Download <em>youtube-dl<em> for Linux.<br>
+<li>Download <em>youtube-dl</em> for Linux.<br>
 <code>apt-get youtube-dl</code>
 </li>
 <li>Create txt files with each URL in a line.</li>
